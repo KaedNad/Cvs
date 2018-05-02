@@ -1,2 +1,2 @@
 # Cvs
-![Alt text](/relative/path/to/cvslogo.png?raw=true "Optional Title")
+![Alt text](cvslogo.png)

@@ -4,5 +4,12 @@
 ## Este o aplicaţie de smartphone-uri, care ruleză pe platforma android, concepută special pentru a programa vizitele medicale la clinica "Centru Veterinar de Specialitate" din Cluj-Napoca, Cluj, Romania.
 
 ## Deţine o interfaţă a utilizatorului foarte coezivă.
-![Alt text](logIn.png), ![Alt text](mainActivity.png) ![Alt text](scheduleActivity1.png) ![Alt text](scheduleActivity3.png)
+![Alt text](logIn.png) ![Alt text](mainActivity.png) ![Alt text](scheduleActivity1.png) ![Alt text](scheduleActivity3.png)
+
+###  De ce ar trebui să utilizați această aplicație:
+  - Simplu şi eficient, pentru a programa o vizită medicală nu mai este necesară luarea unui contact direct cu staff-ul clinicii, prin intermediul unui apel telefonic ori a unei vizite la clinica.
+  - se poate programa o vizită medicală, în cadrul programului prestabilit de clinică, indiferent de oră.
+  - nu consumă prea mult timp, o programare se poate efectua în cateva secunde.
+  - interfaţă uşor de utilizat.
+  - o uneltă folositoare iubitorilor de animale.
 
